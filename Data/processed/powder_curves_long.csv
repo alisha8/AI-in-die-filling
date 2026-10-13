@@ -1,0 +1,316 @@
+x,powder,value,property
+1.0,MCC coarse,4.2515e-12,permeability
+5.0,MCC coarse,3.6686e-12,permeability
+10.0,MCC coarse,3.5867333333333332e-12,permeability
+15.0,MCC coarse,3.5365333333333333e-12,permeability
+20.0,MCC coarse,3.6180666666666665e-12,permeability
+1.0,MCC fine,2.768966666666667e-12,permeability
+5.0,MCC fine,2.0557000000000002e-12,permeability
+10.0,MCC fine,1.9147333333333335e-12,permeability
+15.0,MCC fine,1.8515666666666667e-12,permeability
+20.0,MCC fine,1.8149666666666667e-12,permeability
+1.0,Lactose-Anhydrate,1.1421766666666666e-12,permeability
+5.0,Lactose-Anhydrate,5.8152e-13,permeability
+10.0,Lactose-Anhydrate,4.989566666666666e-13,permeability
+15.0,Lactose-Anhydrate,4.427433333333333e-13,permeability
+20.0,Lactose-Anhydrate,4.3116333333333334e-13,permeability
+1.0,DCP,4.485966666666667e-12,permeability
+5.0,DCP,4.0223e-12,permeability
+10.0,DCP,3.766033333333334e-12,permeability
+15.0,DCP,3.541633333333333e-12,permeability
+20.0,DCP,3.6186000000000004e-12,permeability
+1.0,TCC,2.3083e-12,permeability
+5.0,TCC,1.945966666666667e-12,permeability
+10.0,TCC,1.7430666666666665e-12,permeability
+15.0,TCC,1.6300999999999999e-12,permeability
+20.0,TCC,1.5661666666666665e-12,permeability
+1.0,Powdered Cellulose (Arbocel P290),4.8152999999999995e-12,permeability
+5.0,Powdered Cellulose (Arbocel P290),2.998e-12,permeability
+10.0,Powdered Cellulose (Arbocel P290),3.1648e-12,permeability
+15.0,Powdered Cellulose (Arbocel P290),2.8460666666666666e-12,permeability
+20.0,Powdered Cellulose (Arbocel P290),2.9899666666666664e-12,permeability
+1.0,MCC finest (Vivapur 120),4.728933333333333e-12,permeability
+5.0,MCC finest (Vivapur 120),3.4867e-12,permeability
+10.0,MCC finest (Vivapur 120),3.1603666666666666e-12,permeability
+15.0,MCC finest (Vivapur 120),3.1931666666666666e-12,permeability
+20.0,MCC finest (Vivapur 120),3.1050666666666666e-12,permeability
+1.0,HPMC (60% Tylopur 90SH 40% Vivapur120),3.805033333333333e-12,permeability
+5.0,HPMC (60% Tylopur 90SH 40% Vivapur120),3.0299333333333334e-12,permeability
+10.0,HPMC (60% Tylopur 90SH 40% Vivapur120),2.7288666666666666e-12,permeability
+15.0,HPMC (60% Tylopur 90SH 40% Vivapur120),2.5970999999999995e-12,permeability
+20.0,HPMC (60% Tylopur 90SH 40% Vivapur120),2.5163666666666665e-12,permeability
+1.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),2.9267333333333332e-12,permeability
+5.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),9.295433333333333e-13,permeability
+10.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),7.7583e-13,permeability
+15.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),7.084966666666667e-13,permeability
+20.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),6.702099999999999e-13,permeability
+1.0,MCC coarse,8.24705882352941,ffc
+2.0,MCC coarse,8.03201506591337,ffc
+4.0,MCC coarse,9.347923681257015,ffc
+8.0,MCC coarse,8.10446343779677,ffc
+1.0,MCC fine,4.328542094455853,ffc
+2.0,MCC fine,5.470433639947437,ffc
+4.0,MCC fine,5.598954931417374,ffc
+8.0,MCC fine,6.433868501529052,ffc
+1.0,Lactose-Anhydrate,4.1735357917570495,ffc
+2.0,Lactose-Anhydrate,5.248974008207934,ffc
+4.0,Lactose-Anhydrate,6.549787234042554,ffc
+8.0,Lactose-Anhydrate,8.208732694355698,ffc
+1.0,DCP,18.428571428571427,ffc
+2.0,DCP,29.918518518518518,ffc
+4.0,DCP,33.084,ffc
+8.0,DCP,42.21899736147757,ffc
+1.0,TCC,8.218181818181819,ffc
+2.0,TCC,12.822695035460994,ffc
+4.0,TCC,16.534675615212528,ffc
+8.0,TCC,21.64437689969605,ffc
+1.0,Powdered Cellulose (Arbocel P290),4.07,ffc
+2.0,Powdered Cellulose (Arbocel P290),4.58,ffc
+4.0,Powdered Cellulose (Arbocel P290),4.63,ffc
+8.0,Powdered Cellulose (Arbocel P290),4.74,ffc
+1.0,MCC finest (Vivapur 120),4.13,ffc
+2.0,MCC finest (Vivapur 120),5.2,ffc
+4.0,MCC finest (Vivapur 120),5.68,ffc
+8.0,MCC finest (Vivapur 120),5.6,ffc
+1.0,HPMC (60% Tylopur 90SH 40% Vivapur120),4.96,ffc
+2.0,HPMC (60% Tylopur 90SH 40% Vivapur120),6.33,ffc
+4.0,HPMC (60% Tylopur 90SH 40% Vivapur120),6.35,ffc
+8.0,HPMC (60% Tylopur 90SH 40% Vivapur120),6.03,ffc
+1.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),4.600000000000003,ffc
+2.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),5.41,ffc
+4.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),7.03,ffc
+8.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),8.5,ffc
+2.0,MCC coarse,46.4,dynamic_angle
+5.0,MCC coarse,49.13,dynamic_angle
+8.0,MCC coarse,47.31,dynamic_angle
+10.0,MCC coarse,49.52,dynamic_angle
+15.0,MCC coarse,49.94,dynamic_angle
+20.0,MCC coarse,53.64,dynamic_angle
+30.0,MCC coarse,67.42,dynamic_angle
+40.0,MCC coarse,70.15,dynamic_angle
+50.0,MCC coarse,79.61,dynamic_angle
+60.0,MCC coarse,74.93,dynamic_angle
+2.0,MCC fine,60.71,dynamic_angle
+5.0,MCC fine,56.31,dynamic_angle
+8.0,MCC fine,57.45,dynamic_angle
+10.0,MCC fine,62.01,dynamic_angle
+15.0,MCC fine,54.61,dynamic_angle
+20.0,MCC fine,54.93,dynamic_angle
+30.0,MCC fine,62.31,dynamic_angle
+40.0,MCC fine,67.54,dynamic_angle
+50.0,MCC fine,63.84,dynamic_angle
+60.0,MCC fine,62.56,dynamic_angle
+2.0,Lactose-Anhydrate,54.07,dynamic_angle
+5.0,Lactose-Anhydrate,55.05,dynamic_angle
+8.0,Lactose-Anhydrate,54.01,dynamic_angle
+10.0,Lactose-Anhydrate,59.47,dynamic_angle
+15.0,Lactose-Anhydrate,52.49,dynamic_angle
+20.0,Lactose-Anhydrate,50.38,dynamic_angle
+30.0,Lactose-Anhydrate,50.47,dynamic_angle
+40.0,Lactose-Anhydrate,45.43,dynamic_angle
+50.0,Lactose-Anhydrate,46.44,dynamic_angle
+60.0,Lactose-Anhydrate,53.88,dynamic_angle
+2.0,DCP,41.65,dynamic_angle
+5.0,DCP,46.33,dynamic_angle
+8.0,DCP,45.8,dynamic_angle
+10.0,DCP,45.38,dynamic_angle
+15.0,DCP,45.01,dynamic_angle
+20.0,DCP,47.98,dynamic_angle
+30.0,DCP,61.16,dynamic_angle
+40.0,DCP,69.63,dynamic_angle
+50.0,DCP,74.27,dynamic_angle
+60.0,DCP,72.92,dynamic_angle
+2.0,TCC,45.33,dynamic_angle
+5.0,TCC,47.04,dynamic_angle
+8.0,TCC,50.91,dynamic_angle
+10.0,TCC,49.45,dynamic_angle
+15.0,TCC,57.86,dynamic_angle
+20.0,TCC,52.12,dynamic_angle
+30.0,TCC,65.08,dynamic_angle
+40.0,TCC,66.76,dynamic_angle
+50.0,TCC,75.26,dynamic_angle
+60.0,TCC,76.06,dynamic_angle
+2.0,Powdered Cellulose (Arbocel P290),62.13802430966256,dynamic_angle
+5.0,Powdered Cellulose (Arbocel P290),65.35445734519126,dynamic_angle
+8.0,Powdered Cellulose (Arbocel P290),64.65427281577662,dynamic_angle
+10.0,Powdered Cellulose (Arbocel P290),65.29417401818631,dynamic_angle
+15.0,Powdered Cellulose (Arbocel P290),65.55961089519049,dynamic_angle
+20.0,Powdered Cellulose (Arbocel P290),70.55605223465722,dynamic_angle
+30.0,Powdered Cellulose (Arbocel P290),71.35068330842826,dynamic_angle
+40.0,Powdered Cellulose (Arbocel P290),75.24877216318399,dynamic_angle
+50.0,Powdered Cellulose (Arbocel P290),71.5931778503129,dynamic_angle
+60.0,Powdered Cellulose (Arbocel P290),65.94803373799489,dynamic_angle
+2.0,MCC finest (Vivapur 120),59.35841007769096,dynamic_angle
+5.0,MCC finest (Vivapur 120),54.967237554964214,dynamic_angle
+8.0,MCC finest (Vivapur 120),54.81017512771027,dynamic_angle
+10.0,MCC finest (Vivapur 120),55.80514188144675,dynamic_angle
+15.0,MCC finest (Vivapur 120),56.26042385409853,dynamic_angle
+20.0,MCC finest (Vivapur 120),58.4279995025763,dynamic_angle
+30.0,MCC finest (Vivapur 120),62.68455200827417,dynamic_angle
+40.0,MCC finest (Vivapur 120),66.94739914876337,dynamic_angle
+50.0,MCC finest (Vivapur 120),69.54927614107223,dynamic_angle
+60.0,MCC finest (Vivapur 120),79.34020954245975,dynamic_angle
+2.0,HPMC (60% Tylopur 90SH 40% Vivapur120),61.06036157110657,dynamic_angle
+5.0,HPMC (60% Tylopur 90SH 40% Vivapur120),57.53389424792987,dynamic_angle
+8.0,HPMC (60% Tylopur 90SH 40% Vivapur120),61.24284525085839,dynamic_angle
+10.0,HPMC (60% Tylopur 90SH 40% Vivapur120),60.71879455712238,dynamic_angle
+15.0,HPMC (60% Tylopur 90SH 40% Vivapur120),67.14614461583092,dynamic_angle
+20.0,HPMC (60% Tylopur 90SH 40% Vivapur120),69.0486295375283,dynamic_angle
+30.0,HPMC (60% Tylopur 90SH 40% Vivapur120),71.36012714860317,dynamic_angle
+40.0,HPMC (60% Tylopur 90SH 40% Vivapur120),72.11123190677232,dynamic_angle
+50.0,HPMC (60% Tylopur 90SH 40% Vivapur120),69.19846352367666,dynamic_angle
+60.0,HPMC (60% Tylopur 90SH 40% Vivapur120),70.42843218498132,dynamic_angle
+2.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),64.76350853881276,dynamic_angle
+5.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),56.94322958245345,dynamic_angle
+8.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),55.944977320028904,dynamic_angle
+10.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),57.57189598336579,dynamic_angle
+15.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),58.07898843300062,dynamic_angle
+20.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),53.962168833519705,dynamic_angle
+30.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),60.09103917201335,dynamic_angle
+40.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),64.84381177063034,dynamic_angle
+50.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),61.95688494028141,dynamic_angle
+60.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),64.75413601290933,dynamic_angle
+2.0,MCC coarse,11.3,cohesion_index
+5.0,MCC coarse,14.85,cohesion_index
+8.0,MCC coarse,16.67,cohesion_index
+10.0,MCC coarse,16.67,cohesion_index
+15.0,MCC coarse,20.78,cohesion_index
+20.0,MCC coarse,21.78,cohesion_index
+30.0,MCC coarse,27.45,cohesion_index
+40.0,MCC coarse,28.99,cohesion_index
+50.0,MCC coarse,29.64,cohesion_index
+60.0,MCC coarse,28.36,cohesion_index
+2.0,MCC fine,25.61,cohesion_index
+5.0,MCC fine,27.68,cohesion_index
+8.0,MCC fine,26.21,cohesion_index
+10.0,MCC fine,29.47,cohesion_index
+15.0,MCC fine,28.85,cohesion_index
+20.0,MCC fine,29.93,cohesion_index
+30.0,MCC fine,26.04,cohesion_index
+40.0,MCC fine,26.34,cohesion_index
+50.0,MCC fine,19.13,cohesion_index
+60.0,MCC fine,15.26,cohesion_index
+2.0,Lactose-Anhydrate,22.87000000000002,cohesion_index
+5.0,Lactose-Anhydrate,28.2,cohesion_index
+8.0,Lactose-Anhydrate,33.53,cohesion_index
+10.0,Lactose-Anhydrate,32.32,cohesion_index
+15.0,Lactose-Anhydrate,32.65,cohesion_index
+20.0,Lactose-Anhydrate,32.8,cohesion_index
+30.0,Lactose-Anhydrate,25.85,cohesion_index
+40.0,Lactose-Anhydrate,21.58,cohesion_index
+50.0,Lactose-Anhydrate,15.92,cohesion_index
+60.0,Lactose-Anhydrate,16.41,cohesion_index
+2.0,DCP,8.97,cohesion_index
+5.0,DCP,11.32,cohesion_index
+8.0,DCP,9.4,cohesion_index
+10.0,DCP,11.04,cohesion_index
+15.0,DCP,11.33,cohesion_index
+20.0,DCP,13.12,cohesion_index
+30.0,DCP,12.87,cohesion_index
+40.0,DCP,14.74,cohesion_index
+50.0,DCP,16.36,cohesion_index
+60.0,DCP,18.25,cohesion_index
+2.0,TCC,15.12,cohesion_index
+5.0,TCC,18.67,cohesion_index
+8.0,TCC,18.3,cohesion_index
+10.0,TCC,18.66,cohesion_index
+15.0,TCC,20.21,cohesion_index
+20.0,TCC,20.74,cohesion_index
+30.0,TCC,27.3,cohesion_index
+40.0,TCC,27.16,cohesion_index
+50.0,TCC,28.86,cohesion_index
+60.0,TCC,28.73,cohesion_index
+2.0,Powdered Cellulose (Arbocel P290),32.3952581447415,cohesion_index
+5.0,Powdered Cellulose (Arbocel P290),30.072683705902634,cohesion_index
+8.0,Powdered Cellulose (Arbocel P290),29.464305038821653,cohesion_index
+10.0,Powdered Cellulose (Arbocel P290),31.989415176927984,cohesion_index
+15.0,Powdered Cellulose (Arbocel P290),28.635938993530395,cohesion_index
+20.0,Powdered Cellulose (Arbocel P290),35.88927823211281,cohesion_index
+30.0,Powdered Cellulose (Arbocel P290),31.70968645758278,cohesion_index
+40.0,Powdered Cellulose (Arbocel P290),38.23929577367033,cohesion_index
+50.0,Powdered Cellulose (Arbocel P290),33.41253720061931,cohesion_index
+60.0,Powdered Cellulose (Arbocel P290),29.165146902566182,cohesion_index
+2.0,MCC finest (Vivapur 120),20.793722862570498,cohesion_index
+5.0,MCC finest (Vivapur 120),24.506876992087545,cohesion_index
+8.0,MCC finest (Vivapur 120),25.071148415378797,cohesion_index
+10.0,MCC finest (Vivapur 120),28.76037126299853,cohesion_index
+15.0,MCC finest (Vivapur 120),29.74610178795612,cohesion_index
+20.0,MCC finest (Vivapur 120),31.606442128388956,cohesion_index
+30.0,MCC finest (Vivapur 120),32.929027582128384,cohesion_index
+40.0,MCC finest (Vivapur 120),31.519193025861114,cohesion_index
+50.0,MCC finest (Vivapur 120),32.64541546490681,cohesion_index
+60.0,MCC finest (Vivapur 120),31.15623630627587,cohesion_index
+2.0,HPMC (60% Tylopur 90SH 40% Vivapur120),23.41595350754644,cohesion_index
+5.0,HPMC (60% Tylopur 90SH 40% Vivapur120),25.743770688892265,cohesion_index
+8.0,HPMC (60% Tylopur 90SH 40% Vivapur120),26.778575081687574,cohesion_index
+10.0,HPMC (60% Tylopur 90SH 40% Vivapur120),25.343124474784606,cohesion_index
+15.0,HPMC (60% Tylopur 90SH 40% Vivapur120),26.547824918977785,cohesion_index
+20.0,HPMC (60% Tylopur 90SH 40% Vivapur120),30.058285884908972,cohesion_index
+30.0,HPMC (60% Tylopur 90SH 40% Vivapur120),32.87822707507783,cohesion_index
+40.0,HPMC (60% Tylopur 90SH 40% Vivapur120),31.45560734264433,cohesion_index
+50.0,HPMC (60% Tylopur 90SH 40% Vivapur120),29.57589897043768,cohesion_index
+60.0,HPMC (60% Tylopur 90SH 40% Vivapur120),29.131970559832418,cohesion_index
+2.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),26.108031315572116,cohesion_index
+5.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),28.78958342135501,cohesion_index
+8.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),27.41581952634067,cohesion_index
+10.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),29.6535442739427,cohesion_index
+15.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),30.7082151242822,cohesion_index
+20.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),28.419035150423937,cohesion_index
+30.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),26.719734847593465,cohesion_index
+40.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),25.380622570667832,cohesion_index
+50.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),20.461938771388944,cohesion_index
+60.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),17.531037423890318,cohesion_index
+6.0,MCC coarse,2.6440501601226973,volume_flow
+8.0,MCC coarse,5.436923460365304,volume_flow
+10.0,MCC coarse,9.73631943860338,volume_flow
+11.3,MCC coarse,13.229925024668196,volume_flow
+15.0,MCC coarse,26.017207340524084,volume_flow
+25.0,MCC coarse,82.92521686885506,volume_flow
+6.0,MCC fine,1.2111814907840281,volume_flow
+8.0,MCC fine,2.7158464289942295,volume_flow
+10.0,MCC fine,3.186858878423538,volume_flow
+11.3,MCC fine,3.998893544374574,volume_flow
+15.0,MCC fine,9.688683086834187,volume_flow
+25.0,MCC fine,29.72849905399653,volume_flow
+6.0,Lactose-Anhydrate,0.0,volume_flow
+8.0,Lactose-Anhydrate,2.278003654538181,volume_flow
+10.0,Lactose-Anhydrate,4.38685002896141,volume_flow
+11.3,Lactose-Anhydrate,5.949367896350556,volume_flow
+15.0,Lactose-Anhydrate,10.46792474054004,volume_flow
+25.0,Lactose-Anhydrate,20.578569545326058,volume_flow
+6.0,DCP,3.3050737180046617,volume_flow
+8.0,DCP,6.71921691558379,volume_flow
+10.0,DCP,12.264817947304488,volume_flow
+11.3,DCP,17.037609305569955,volume_flow
+15.0,DCP,34.80209787045963,volume_flow
+25.0,DCP,145.78212107959203,volume_flow
+6.0,TCC,2.142018223778337,volume_flow
+8.0,TCC,4.256873173684978,volume_flow
+10.0,TCC,6.956425244854077,volume_flow
+11.3,TCC,8.931030245522214,volume_flow
+15.0,TCC,20.187467386467876,volume_flow
+25.0,TCC,67.19697795212669,volume_flow
+6.0,Powdered Cellulose (Arbocel P290),0.0,volume_flow
+8.0,Powdered Cellulose (Arbocel P290),0.0,volume_flow
+10.0,Powdered Cellulose (Arbocel P290),0.0,volume_flow
+11.3,Powdered Cellulose (Arbocel P290),6.824718690429662,volume_flow
+15.0,Powdered Cellulose (Arbocel P290),16.891363492621565,volume_flow
+25.0,Powdered Cellulose (Arbocel P290),41.46746871914693,volume_flow
+6.0,MCC finest (Vivapur 120),0.0,volume_flow
+8.0,MCC finest (Vivapur 120),0.0,volume_flow
+10.0,MCC finest (Vivapur 120),0.0,volume_flow
+11.3,MCC finest (Vivapur 120),5.728547457354345,volume_flow
+15.0,MCC finest (Vivapur 120),12.45330736723084,volume_flow
+25.0,MCC finest (Vivapur 120),55.72425688503867,volume_flow
+6.0,HPMC (60% Tylopur 90SH 40% Vivapur120),0.0,volume_flow
+8.0,HPMC (60% Tylopur 90SH 40% Vivapur120),0.0,volume_flow
+10.0,HPMC (60% Tylopur 90SH 40% Vivapur120),0.0,volume_flow
+11.3,HPMC (60% Tylopur 90SH 40% Vivapur120),7.212955640223473,volume_flow
+15.0,HPMC (60% Tylopur 90SH 40% Vivapur120),11.9426083520973,volume_flow
+25.0,HPMC (60% Tylopur 90SH 40% Vivapur120),32.303576740747594,volume_flow
+6.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),0.0,volume_flow
+8.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),0.0,volume_flow
+10.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),0.0,volume_flow
+11.3,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),8.91992713688697,volume_flow
+15.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),20.533995019267405,volume_flow
+25.0,CaCO3(50% MagGranCC 39% TCC 10% MCC Vivapur 120 1% MgSt),43.48646615128619,volume_flow
