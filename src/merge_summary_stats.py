@@ -9,13 +9,14 @@ props_to_summary = {
     "HPMC (60% Tylopur 90SH 40% Vivapur120)": "HPMC(60%Tylopur40%V120)",
     "Lactose-Anhydrate": "Lactose Anhydrate",
     "Powdered Cellulose (Arbocel P290)": "Powdered cellulose(ArbocelP290)",
+    "MCC finest (Vivapur 120)": "MCC finest (Vivapur102)" 
 }
 props["powder"] = props["powder"].replace(props_to_summary)
 
 # 2. MCC finest: treat as Vivapur 120
-summary["powder"] = summary["powder"].replace(
-    {"MCC finest (Vivapur102)": "MCC finest (Vivapur 120)"}
-)
+# summary["powder"] = summary["powder"].replace(
+#     {"MCC finest (Vivapur120)": "MCC finest (Vivapur 102)"}
+# )
 
 # 3. Names must now match exactly
 print(sorted(set(props["powder"]) ^ set(summary["powder"])))

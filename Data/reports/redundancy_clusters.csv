@@ -1,0 +1,23 @@
+cluster,members,representative,size
+1,dynamic_angle_30,dynamic_angle_30,1
+2,dynamic_angle_40,dynamic_angle_40,1
+3,bulk_density_g_cm3; tapped_density_g_cm3,bulk_density_g_cm3,2
+4,cohesion_index_30; cohesion_index_40; cohesion_index_50,cohesion_index_40,3
+5,cohesion_index_60,cohesion_index_60,1
+6,hausner_ratio; ffc_8; dynamic_angle_20,hausner_ratio,3
+7,ffc_4,ffc_4,1
+8,cohesion_index_8; cohesion_index_10,cohesion_index_8,2
+9,ffc_1; ffc_2; cohesion_index_20,ffc_1,3
+10,volume_flow_6; volume_flow_8; volume_flow_10,volume_flow_8,3
+11,dynamic_angle_5; dynamic_angle_8; dynamic_angle_10,dynamic_angle_5,3
+12,cohesion_index_2; cohesion_index_5,cohesion_index_2,2
+13,dynamic_angle_2,dynamic_angle_2,1
+14,dynamic_angle_15,dynamic_angle_15,1
+15,permeability_5; permeability_10; permeability_15; permeability_20,permeability_15,4
+16,permeability_1,permeability_1,1
+17,dynamic_angle_50,dynamic_angle_50,1
+18,cohesion_index_15,cohesion_index_15,1
+19,volume_flow_15; volume_flow_25,volume_flow_15,2
+20,volume_flow_11p3,volume_flow_11p3,1
+21,dynamic_angle_60,dynamic_angle_60,1
+22,static_angle_of_repose_deg,static_angle_of_repose_deg,1
